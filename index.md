@@ -5,6 +5,7 @@ tagline: Supporting tagline
 published: true
 ---
 
+
 {% include JB/setup %}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
@@ -19,7 +20,7 @@ In `_config.yml` remember to specify your own data:
     
     author :
       name : Name Lastname
-      email : blah@emails.test
+      email : blah@emailss.test
       github : username
       twitter : username
 
